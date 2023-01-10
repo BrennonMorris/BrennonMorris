@@ -34,5 +34,6 @@
   <h3 align="center">LinkedIn: https://www.linkedin.com/in/brennonmorris</h3>
   <h3 align="center">Resume: 
   <a href="https://docs.google.com/document/d/1V0V0pDoZtEUAHR1XEIrjdKS62_h0O8cu4hTIgM9hWas/edit?usp=sharing">https://docs.google.com/brennonmorrisresume</a>
+  <h3 align="center">Wellfound: https://angel.co/u/brennon-morris-1</h3>
   <h3 align="center">Portfolio: https://brennonmorris.github.io/#</h3>
 </div>
